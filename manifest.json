@@ -1,6 +1,6 @@
 {
-    "name": "Flight Status",
-    "short_name": "Flight",
+    "name": "T2스케줄",
+    "short_name": "T2스케줄",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
