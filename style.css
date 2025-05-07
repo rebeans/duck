@@ -34,6 +34,7 @@ td {
 .content-all {
     width: 70px;
     height: 85px;
+    justify-content: center;
 }
 
 .remark-bor { background-color: #F9F911; }
@@ -100,7 +101,7 @@ td {
 .plus1d-icon {
     width: 40px;
     height: 40px;
-    background-color: rgba(76, 175, 80, 0.6); /* 초록색 반투명 */
+    background-color: rgba(76, 175, 80, 0.6);
     border-radius: 50%;
     color: white;
     font-size: 18px;
@@ -115,7 +116,7 @@ td {
 
 #duty-button {
     position: fixed;
-    bottom: 120px; /* nextday-button보다 위 */
+    bottom: 120px;
     right: 20px;
     z-index: 1000;
     cursor: pointer;
@@ -124,7 +125,7 @@ td {
 .duty-icon {
     width: 40px;
     height: 40px;
-    background-color: rgba(248, 122, 122, 0.6); /* 옅은 핑크 */
+    background-color: rgba(248, 122, 122, 0.6);
     border-radius: 50%;
     color: white;
     font-size: 16px;
